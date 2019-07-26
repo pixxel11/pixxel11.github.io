@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Bem-Vindo(a) ao meu site
 
-You can use the [editor on GitHub](https://github.com/pixxel11/pixxel11.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Steam
+
+You can use the [Steam](https://steamcommunity.com/id/GoderAtBhope/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
